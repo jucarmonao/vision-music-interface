@@ -1,42 +1,83 @@
 # Vision Music Interface
 
-Interactive system that connects computer vision with musical interaction.
+Interactive system that connects **computer vision with musical interaction**.
 
-This project explores the intersection between **technology and music**, using computer vision to trigger musical notes and chords in real time. The system detects visual input and translates it into sound, demonstrating how STEM environments can enable multidisciplinary experimentation between engineering and the arts.
+This project explores the intersection between **technology and music**, transforming visual input into real-time musical responses.  
+Using computer vision, users can interact with musical instruments such as **guitar and trumpet**, triggering notes and chords through movement and visual recognition.
 
-## Features
+The system was designed as an experimental platform to demonstrate the creative potential of **STEM environments**, where engineering, programming, and artistic expression converge.
 
-- Real-time computer vision processing
-- Musical note triggering
-- Guitar chord playback
-- Trumpet note playback
-- Interactive audiovisual experimentation
+---
 
-## Technologies used
+# 🎥 Demo Video
+
+[![Vision Music Interface Demo](https://img.youtube.com/vi/98fRv8hqUNc/maxresdefault.jpg)](https://youtu.be/98fRv8hqUNc)
+
+Click the image to watch the demonstration video.
+
+The video shows:
+
+- The author exploring the system
+- Users interacting with the interface
+- Musical responses generated through computer vision
+- The collaborative interaction possibilities of the system
+
+---
+
+# How it Works
+
+The system uses computer vision to detect interaction from users and translate it into musical responses.
+
+Different modes allow users to control the type of instrument and interaction.
+
+### Interaction Modes
+
+**1 → Trumpet mode**
+
+The system triggers trumpet notes through visual interaction.
+
+**2 → Guitar mode**
+
+The system activates guitar chords and harmonic structures.
+
+**9 → Paired interaction**
+
+Two users interact simultaneously with the system.
+
+**0 → Individual mode**
+
+Single user interaction mode.
+
+**8 → Hybrid paired mode**
+
+Two users interact simultaneously with mixed instruments (guitar + trumpet).
+
+This configuration allows different musical experiences ranging from individual exploration to collaborative performance.
+
+---
+
+# Technologies Used
 
 - Python
-- OpenCV
-- Sounddevice
-- Numpy
+- Computer Vision
+- Audio Processing
+- Interactive System Design
 
-## Project structure
-    Sounds/
-    ├── Guitarra/
-    ├── Trompeta/
-    main.py
+---
+
+# Purpose
+
+The goal of this project is to demonstrate how technology can act as a bridge between disciplines that are often treated separately, such as **engineering and music**.
+
+It also illustrates the creative potential of **STEM environments**, where programming, signal processing, and artistic experimentation converge.
 
 
-## Purpose
+# Author
 
-The goal of this project is to demonstrate how technology can be used as a bridge between disciplines that are often treated separately, such as engineering and music.  
-
-It also serves as an example of the creative potential of **STEM learning environments**, where programming, signal processing, and artistic expression can converge in experimental systems.
-
-## Author
-
-Juan Pablo Carmona
-Electronic Engineer
-STEM Director / Research Projects
+Juan Pablo Carmona  
+Electronic Engineer  
+Electrical Engineer  
+Universidad Nacional de Colombia  
 
 
 ---
@@ -47,39 +88,63 @@ STEM Director / Research Projects
 
 Sistema interactivo que conecta **visión por computadora con interacción musical**.
 
-Este proyecto explora la relación entre **tecnología y música**, utilizando visión artificial para activar notas y acordes musicales en tiempo real. El sistema detecta información visual y la traduce en sonido, demostrando cómo los entornos STEM permiten experimentación multidisciplinaria entre ingeniería y arte.
+Este proyecto explora la relación entre **tecnología y música**, transformando información visual en respuestas musicales en tiempo real.  
+A través de visión artificial, los usuarios pueden interactuar con instrumentos como **guitarra y trompeta**, activando notas y acordes mediante movimiento y reconocimiento visual.
 
-## Características
-
-- Procesamiento de visión por computadora en tiempo real  
-- Activación de notas musicales mediante detección visual  
-- Reproducción de acordes de guitarra  
-- Reproducción de notas de trompeta  
-- Experimentación audiovisual interactiva  
-
-## Tecnologías utilizadas
-
-- Python  
-- OpenCV  
-- Sounddevice  
-- Numpy  
-
-## Objetivo
-
-El objetivo de este proyecto es demostrar cómo la tecnología puede funcionar como un puente entre disciplinas que tradicionalmente se encuentran separadas, como la ingeniería y la música.
-
-Además, sirve como ejemplo del potencial creativo de los **espacios de aprendizaje STEM**, donde la programación, el procesamiento de señales y la expresión artística pueden integrarse para desarrollar sistemas experimentales.
-
-## Estructura del Proyecto
-    Sounds/
-    ├── Guitarra/
-    ├── Trompeta/
-    main.py
+El sistema fue diseñado como una plataforma experimental que demuestra el potencial creativo de los **entornos STEM**, donde la ingeniería, la programación y la expresión artística se integran.
 
 ---
 
-## Autor
+# 🎥 Video demostrativo
+
+[![Vision Music Interface Demo](https://img.youtube.com/vi/98fRv8hqUNc/maxresdefault.jpg)](https://youtu.be/98fRv8hqUNc)
+
+Haz clic en la imagen para ver el video de demostración.
+
+En el video se muestra:
+
+- El autor explorando el sistema
+- Usuarios interactuando con la interfaz
+- Respuestas musicales generadas por visión artificial
+- Posibilidades de interacción colaborativa
+
+---
+
+# Funcionamiento
+
+El sistema utiliza **visión por computadora** para detectar la interacción de los usuarios y transformarla en respuestas musicales.
+
+Existen diferentes modos que permiten controlar el instrumento y la forma de interacción.
+
+### Modos de interacción
+
+**1 → Modo trompeta**
+
+Activa notas de trompeta mediante interacción visual.
+
+**2 → Modo guitarra**
+
+Activa acordes y estructuras armónicas de guitarra.
+
+**9 → Interacción en parejas**
+
+Dos usuarios interactúan simultáneamente con el sistema.
+
+**0 → Modo individual**
+
+Interacción para un solo usuario.
+
+**8 → Modo híbrido en parejas**
+
+Dos usuarios interactúan simultáneamente con instrumentos mezclados (guitarra + trompeta).
+
+Esto permite experiencias musicales tanto individuales como colaborativas.
+
+---
+
+# Autor
 
 Juan Pablo Carmona  
-Ingeniero Electrónico
-Director STEM
+Ingeniero Electrónico  
+Ingeniero Electricista  
+Universidad Nacional de Colombia
