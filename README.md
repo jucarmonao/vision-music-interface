@@ -37,3 +37,49 @@ It also serves as an example of the creative potential of **STEM learning enviro
 Juan Pablo Carmona
 Electronic Engineer
 STEM Director / Research Projects
+
+
+---
+
+# Versión en Español
+
+## Interfaz Música-Visión
+
+Sistema interactivo que conecta **visión por computadora con interacción musical**.
+
+Este proyecto explora la relación entre **tecnología y música**, utilizando visión artificial para activar notas y acordes musicales en tiempo real. El sistema detecta información visual y la traduce en sonido, demostrando cómo los entornos STEM permiten experimentación multidisciplinaria entre ingeniería y arte.
+
+## Características
+
+- Procesamiento de visión por computadora en tiempo real  
+- Activación de notas musicales mediante detección visual  
+- Reproducción de acordes de guitarra  
+- Reproducción de notas de trompeta  
+- Experimentación audiovisual interactiva  
+
+## Tecnologías utilizadas
+
+- Python  
+- OpenCV  
+- Sounddevice  
+- Numpy  
+
+## Objetivo
+
+El objetivo de este proyecto es demostrar cómo la tecnología puede funcionar como un puente entre disciplinas que tradicionalmente se encuentran separadas, como la ingeniería y la música.
+
+Además, sirve como ejemplo del potencial creativo de los **espacios de aprendizaje STEM**, donde la programación, el procesamiento de señales y la expresión artística pueden integrarse para desarrollar sistemas experimentales.
+
+## Estructura del Proyecto
+    Sounds/
+    ├── Guitarra/
+    ├── Trompeta/
+    main.py
+
+---
+
+## Author
+
+Juan Pablo Carmona  
+Electronic Engineer  
+STEM Director
