@@ -78,8 +78,8 @@ Además, sirve como ejemplo del potencial creativo de los **espacios de aprendiz
 
 ---
 
-## Author
+## Autor
 
 Juan Pablo Carmona  
-Electronic Engineer  
-STEM Director
+Ingeniero Electrónico
+Director STEM
