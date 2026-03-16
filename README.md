@@ -172,7 +172,7 @@ Más allá de ser un prototipo tecnológico, el sistema fue concebido como una *
 
 # 🎥 Video demostrativo
 
-[![Vision Music Interface Demo](https://img.youtube.com/vi/98fRv8hqUNc/maxresdefault.jpg)](https://youtu.be/98fRv8hqUNc)
+[![Vision Music Interface Demo](https://img.youtube.com/vi/zcNV5cYcRA8/maxresdefault.jpg)](https://youtu.be/zcNV5cYcRA8)
 
 Haz clic en la imagen para ver el video de demostración.
 
