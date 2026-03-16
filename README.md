@@ -12,7 +12,7 @@ Beyond a technological prototype, the project was conceived as an **educational 
 
 # 🎥 Demo Video
 
-[![Vision Music Interface Demo](https://img.youtube.com/vi/98fRv8hqUNc/maxresdefault.jpg)](https://youtu.be/98fRv8hqUNc)
+[![Vision Music Interface Demo](https://img.youtube.com/vi/zcNV5cYcRA8/maxresdefault.jpg)](https://youtu.be/zcNV5cYcRA8)
 
 Click the image to watch the demonstration video.
 
@@ -281,9 +281,7 @@ Esto convierte la interfaz en una **herramienta creativa inclusiva**, donde la m
 - Modos adaptativos para la rehabilitación
 - Talleres educativos para el aprendizaje de STEAM
 
-
 ---
-
 
 # Autor
 
